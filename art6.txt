@@ -1,0 +1,27 @@
+Izera. Wiemy, jaką moc i zasięg będzie miało polskie auto elektryczne
+
+Elektryczny samochód Izera, który ma być produkowany przez Electromobility Poland będzie oparty na opracowanej przez chiński koncern Geely platformie Sustainable Experience Architecture (SEA). A to determinuje sporo danych technicznych Izery.
+
+SEA to modułowa platforma stworzona z myślą o samochodach elektrycznych. Tak naprawdę istnieje aż pięć wariantów tej platformy (dla samochodów segmentu C, D, E, samochodów sportowych oraz dostawczych, ciężarowych i autobusów. 
+
+W Izerze zastosowanie znajdzie SEA-E (SEA Entry), czyli platforma przeznaczona dla samochodów kompaktowych, których rozstaw osi nie przekracza 275 cm (dla porównania spalinowy Golf ma rozstaw osi wynoszący 263 cm). Platforma jest na tyle elastyczna, że umożliwia stosowanie jednego, dwóch lub trzech silników, które napędzają koła przednie, tylne albo wszystkie.
+
+Jaka moc Izery?
+
+
+W przypadku Izery stosowana będzie jedna, umieszczona przy tylnej osi jednostka napędowa, napędzająca koła tylne. Jej moc będzie wynosić 272 KM. Dokładnie taką samą architekturę (platforma SEA, tylny napęd, silnik 272 KM) zastosowano w Smarcie #1, czyli pierwszym modelu będącym efektem kooperacji Geely i Mercedesa. Smart #1 produkowany jest w Chinach.
+
+Izera - jaki zasięg
+
+
+O ile Smart #1, którego można traktować jako technologicznego bliźniaka Izery, wyposażony jest baterię o pojemności 66 kWh, o tyle w Izerze mają znaleźć zastosowanie akumulatory o pojemności 51 i 69 kWh. Mają one zapewnić zasięg odpowiednio 340 i 450 km, mierzone wg WLTP (w praktyce będą nieco mniejsze, realnie może to być około 300 i 400 w zależności m.in. od sposobu jazdy czy warunków atmosferycznych).
+Izerę będzie można ładować na mocnych ładowarkach prąd stałego (DC) z mocą do 150 kW. W mniejszej baterii pozwoli to uzupełnić poziom energii od 0 do 80 proc. w pół godziny, co w praktyce powinno pozwolić przejechać około 240 km.
+
+Izera - dane techniczne
+
+
+Platforma SEA zakłada uzyskanie pięciu gwiazdek w testach zderzeniowych Euro NCAP oraz stosowanie systemów wspomagania kierowcy ADAS, umożliwiających jazdę autonomiczną na poziomie 2. To oznacza wyposażenie samochodu m.in. w adaptacyjny tempomat, który umożliwia zachowanie bezpiecznego dystansu i dopasowanie prędkości do poprzedzających pojazdów oraz w system utrzymujący samochód na pasie ruchu.
+
+Izera otrzyma wielowahaczowe zawieszenie tylne oraz przednie oparte na kolumnach McPhersona. Za hamowanie odpowiadać będą wentylowane tarcze. W samochodzie znajdzie się również tzw. iBooster, czyli system odzyskiwania energii podczas hamowania. Przewiduje się, że droga hamowania ze 100 km/h do zera wyniesie 37 metrów. Hamulec ręczny będzie elektryczny,
+Najmniej wiemy o wymiarach Izery, co oczywiście związane jest z tym, że obecnie nie jest przesądzony wygląd nadwozia. Ogólne założenia mówią, że Izera będzie miała między 450 a 475 cm długości (Smart #1 ma 427 cm), szerokość bez lusterek wyniesie między 182 a 185 cm, a wysokość to 150-160 cm.
+
